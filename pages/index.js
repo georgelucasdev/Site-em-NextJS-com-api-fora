@@ -1,11 +1,11 @@
-import Navbar from './components/Navbar'
-import MyApp from './_app';
+import Navbar from "./components/Navbar";
+import MyApp from "./_app";
 
 export default function Home() {
   return (
-    <div >
-      <Navbar/>
+    <div>
+      <Navbar />
       home
     </div>
   );
-};
+}
