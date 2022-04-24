@@ -11,7 +11,7 @@ export default function Home() {
       <Navbar />
       <br/>
         <Container>
-          <h2>Serviços</h2>
+          <h2></h2>
         </Container>
         
         <Footer/>
