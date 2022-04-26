@@ -35,7 +35,7 @@ function politicaprivacidade() {
         experiência. Esta página descreve quais informações eles coletam, como
         as usamos e por que às vezes precisamos armazenar esses cookies. Também
         compartilharemos como você pode impedir que esses cookies sejam
-        armazenados, no entanto, isso pode fazer o downgrade ou 'quebrar' certos
+        armazenados, no entanto, isso pode fazer o downgrade ou quebrar certos
         elementos da funcionalidade do site. Como usamos os cookies? Utilizamos
         cookies por vários motivos, detalhados abaixo. Infelizmente, na maioria
         dos casos, não existem opções padrão do setor para desativar os cookies
