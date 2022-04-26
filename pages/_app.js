@@ -1,18 +1,25 @@
 import Head from "next/head";
 import Script from "next/script";
+import bootstrap from "reactstrap";
 
 function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <meta charSet="utf-8"/>
-        <meta name="robots" content="index, follow"/>
-        <meta name="description" content="Demostração de meus projetos, caso goste entre
-        em cotato conosco na pagina contato."/>
-        <meta name="author" content="George Lucas"/>
+        <meta charSet="utf-8" />
+        <meta name="robots" content="index, follow" />
+        <meta
+          name="description"
+          content="Demostração de meus projetos, caso goste entre
+        em cotato conosco na pagina contato."
+        />
+        <meta name="author" content="George Lucas" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <title>George Lucas Dev</title>
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" />
+        <link
+          rel="stylesheet"
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css"
+        />
       </Head>
 
       <Script
@@ -24,4 +31,6 @@ function MyApp({ Component, pageProps }) {
     </>
   );
 }
+
+
 export default MyApp;
