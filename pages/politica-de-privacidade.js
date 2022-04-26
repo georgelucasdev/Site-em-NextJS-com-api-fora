@@ -1,5 +1,6 @@
 import { Container } from "reactstrap";
 import Navbar from "./components/Navbar";
+import Rodape from "./components/Rodape";
 
 function politicaprivacidade() {
   return (
@@ -45,6 +46,7 @@ function politicaprivacidade() {
 <h3>ATUALIZAÇÃO</h3>               
 <p>Essa <strong>politica de privacidade</strong> obteve sua última atualização na data de 26/04/2022, podendo ser modificada a qualquer momento, sem aviso prévio.</p>
       </Container>
+      <Rodape />
     </div>
   );
 }

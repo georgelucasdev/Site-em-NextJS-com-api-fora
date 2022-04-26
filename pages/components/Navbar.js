@@ -46,7 +46,7 @@ const Navbar = () => {
             </Link>
             <Link href="politica-de-privacidade">
               <a className="nav-link active" aria-current="page">
-              Politica de Privacidade
+              Politicade Privacidade
               </a>
             </Link>
           </ul>

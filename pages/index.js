@@ -2,8 +2,8 @@ import react from "react";
 import next from "next";
 import Navbar from "./components/Navbar";
 import MyApp from "./_app";
-import { Container, Carousel } from "reactstrap";
-import Footer from "./components/footer";
+import { Container, Carousel, Jumbotron } from "reactstrap";
+import Rodape from "./components/Rodape";
 import Image from "next/image";
 import Link from "next/link";
 import Image1 from "../public/px1.jpg";
@@ -32,7 +32,7 @@ export default function Home() {
           </div>
         </div>
       </Container>
-      <Footer />
+      <Rodape />
     </div>
   );
 }
