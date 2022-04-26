@@ -5,139 +5,45 @@ function politicaprivacidade() {
   return (
     <div>
       <Navbar />
+      <br/>
       <Container>
-        Política Privacidade
-         A sua privacidade é importante para nós. É política
-        do George Lucas Dev respeitar a sua privacidade em relação a qualquer
-        informação sua que possamos coletar no site George Lucas Dev, e outros
-        sites que possuímos e operamos. Solicitamos informações pessoais apenas
-        quando realmente precisamos delas para lhe fornecer um serviço.
-        Fazemo-lo por meios justos e legais, com o seu conhecimento e
-        consentimento. Também informamos por que estamos coletando e como será
-        usado. Apenas retemos as informações coletadas pelo tempo necessário
-        para fornecer o serviço solicitado. Quando armazenamos dados, protegemos
-        dentro de meios comercialmente aceitáveis ​​para evitar perdas e roubos,
-        bem como acesso, divulgação, cópia, uso ou modificação não autorizados.
-        Não compartilhamos informações de identificação pessoal publicamente ou
-        com terceiros, exceto quando exigido por lei. O nosso site pode ter
-        links para sites externos que não são operados por nós. Esteja ciente de
-        que não temos controle sobre o conteúdo e práticas desses sites e não
-        podemos aceitar responsabilidade por suas respectivas políticas de
-        privacidade. Você é livre para recusar a nossa solicitação de
-        informações pessoais, entendendo que talvez não possamos fornecer alguns
-        dos serviços desejados. O uso continuado de nosso site será considerado
-        como aceitação de nossas práticas em torno de privacidade e informações
-        pessoais. Se você tiver alguma dúvida sobre como lidamos com dados do
-        usuário e informações pessoais, entre em contacto connosco. Política de
-        Cookies George Lucas Dev O que são cookies? Como é prática comum em
-        quase todos os sites profissionais, este site usa cookies, que são
-        pequenos arquivos baixados no seu computador, para melhorar sua
-        experiência. Esta página descreve quais informações eles coletam, como
-        as usamos e por que às vezes precisamos armazenar esses cookies. Também
-        compartilharemos como você pode impedir que esses cookies sejam
-        armazenados, no entanto, isso pode fazer o downgrade ou quebrar certos
-        elementos da funcionalidade do site. Como usamos os cookies? Utilizamos
-        cookies por vários motivos, detalhados abaixo. Infelizmente, na maioria
-        dos casos, não existem opções padrão do setor para desativar os cookies
-        sem desativar completamente a funcionalidade e os recursos que eles
-        adicionam a este site. É recomendável que você deixe todos os cookies se
-        não tiver certeza se precisa ou não deles, caso sejam usados ​​para
-        fornecer um serviço que você usa. Desativar cookies Você pode impedir a
-        configuração de cookies ajustando as configurações do seu navegador
-        consulte a Ajuda do navegador para saber como fazer isso. Esteja
-        ciente de que a desativação de cookies afetará a funcionalidade deste e
-        de muitos outros sites que você visita. A desativação de cookies
-        geralmente resultará na desativação de determinadas funcionalidades e
-        recursos deste site. Portanto, é recomendável que você não desative os
-        cookies. Cookies que definimos Cookies relacionados à conta Se você
-        criar uma conta connosco, usaremos cookies para o gerenciamento do
-        processo de inscrição e administração geral. Esses cookies geralmente
-        serão excluídos quando você sair do sistema, porém, em alguns casos,
-        eles poderão permanecer posteriormente para lembrar as preferências do
-        seu site ao sair. Cookies relacionados ao login Utilizamos cookies
-        quando você está logado, para que possamos lembrar dessa ação. Isso
-        evita que você precise fazer login sempre que visitar uma nova página.
-        Esses cookies são normalmente removidos ou limpos quando você efetua
-        logout para garantir que você possa acessar apenas a recursos e áreas
-        restritas ao efetuar login. Cookies relacionados a boletins por e-mail
-        Este site oferece serviços de assinatura de boletim informativo ou
-        e-mail e os cookies podem ser usados ​​para lembrar se você já está
-        registrado e se deve mostrar determinadas notificações válidas apenas
-        para usuários inscritos / não inscritos. Pedidos processando cookies
-        relacionados Este site oferece facilidades de comércio eletrônico ou
-        pagamento e alguns cookies são essenciais para garantir que seu pedido
-        seja lembrado entre as páginas, para que possamos processá-lo
-        adequadamente. Cookies relacionados a pesquisas Periodicamente,
-        oferecemos pesquisas e questionários para fornecer informações
-        interessantes, ferramentas úteis ou para entender nossa base de usuários
-        com mais precisão. Essas pesquisas podem usar cookies para lembrar quem
-        já participou numa pesquisa ou para fornecer resultados precisos após a
-        alteração das páginas. Cookies relacionados a formulários Quando você
-        envia dados por meio de um formulário como os encontrados nas páginas de
-        contacto ou nos formulários de comentários, os cookies podem ser
-        configurados para lembrar os detalhes do usuário para correspondência
-        futura. Cookies de preferências do site Para proporcionar uma ótima
-        experiência neste site, fornecemos a funcionalidade para definir suas
-        preferências de como esse site é executado quando você o usa. Para
-        lembrar suas preferências, precisamos definir cookies para que essas
-        informações possam ser chamadas sempre que você interagir com uma página
-        for afetada por suas preferências. Cookies de Terceiros Em alguns casos
-        especiais, também usamos cookies fornecidos por terceiros confiáveis. A
-        seção a seguir detalha quais cookies de terceiros você pode encontrar
-        através deste site. Este site usa o Google Analytics, que é uma das
-        soluções de análise mais difundidas e confiáveis ​​da Web, para nos
-        ajudar a entender como você usa o site e como podemos melhorar sua
-        experiência. Esses cookies podem rastrear itens como quanto tempo você
-        gasta no site e as páginas visitadas, para que possamos continuar
-        produzindo conteúdo atraente. Para mais informações sobre cookies do
-        Google Analytics, consulte a página oficial do Google Analytics. As
-        análises de terceiros são usadas para rastrear e medir o uso deste site,
-        para que possamos continuar produzindo conteúdo atrativo. Esses cookies
-        podem rastrear itens como o tempo que você passa no site ou as páginas
-        visitadas, o que nos ajuda a entender como podemos melhorar o site para
-        você. Periodicamente, testamos novos recursos e fazemos alterações
-        subtis na maneira como o site se apresenta. Quando ainda estamos
-        testando novos recursos, esses cookies podem ser usados ​​para garantir
-        que você receba uma experiência consistente enquanto estiver no site,
-        enquanto entendemos quais otimizações os nossos usuários mais apreciam.
-        À medida que vendemos produtos, é importante entendermos as estatísticas
-        sobre quantos visitantes de nosso site realmente compram e, portanto,
-        esse é o tipo de dados que esses cookies rastrearão. Isso é importante
-        para você, pois significa que podemos fazer previsões de negócios com
-        precisão que nos permitem analizar nossos custos de publicidade e
-        produtos para garantir o melhor preço possível. O serviço Google AdSense
-        que usamos para veicular publicidade usa um cookie DoubleClick para
-        veicular anúncios mais relevantes em toda a Web e limitar o número de
-        vezes que um determinado anúncio é exibido para você. Para mais
-        informações sobre o Google AdSense, consulte as FAQs oficiais sobre
-        privacidade do Google AdSense. Utilizamos anúncios para compensar os
-        custos de funcionamento deste site e fornecer financiamento para futuros
-        desenvolvimentos. Os cookies de publicidade comportamental usados ​​por
-        este site foram projetados para garantir que você forneça os anúncios
-        mais relevantes sempre que possível, rastreando anonimamente seus
-        interesses e apresentando coisas semelhantes que possam ser do seu
-        interesse. Vários parceiros anunciam em nosso nome e os cookies de
-        rastreamento de afiliados simplesmente nos permitem ver se nossos
-        clientes acessaram o site através de um dos sites de nossos parceiros,
-        para que possamos creditá-los adequadamente e, quando aplicável,
-        permitir que nossos parceiros afiliados ofereçam qualquer promoção que
-        pode fornecê-lo para fazer uma compra. Compromisso do Usuário O usuário
-        se compromete a fazer uso adequado dos conteúdos e da informação que o
-        George Lucas Dev oferece no site e com caráter enunciativo, mas não
-        limitativo: A- Não se envolver em atividades que sejam ilegais ou
-        contrárias à boa fé a à ordem pública; B- Não difundir propaganda ou
-        conteúdo de natureza racista, xenofóbica, Onde dá a Bola ou azar,
-        qualquer tipo de pornografia ilegal, de apologia ao terrorismo ou contra
-        os direitos humanos; C- Não causar danos aos sistemas físicos
-        hardwares e lógicos softwares do George Lucas Dev, de seus
-        fornecedores ou terceiros, para introduzir ou disseminar vírus
-        informáticos ou quaisquer outros sistemas de hardware ou software que
-        sejam capazes de causar danos anteriormente mencionados. Mais
-        informações Esperemos que esteja esclarecido e, como mencionado
-        anteriormente, se houver algo que você não tem certeza se precisa ou
-        não, geralmente é mais seguro deixar os cookies ativados, caso interaja
-        com um dos recursos que você usa em nosso site. Esta política é efetiva
-        a partir de April/2022.
+      <h2>Política de Privacidade</h2>
+<p>É importante esclarecer que dados pessoais são considerados como: todas as informações que possam ser utilizadas para identificar alguma pessoa. Estes dados, podem ser considerados sensíveis, tais como: convicção religiosa, saúde ou à vida sexual, origem racial ou étnica, opinião política, dado genético ou biométrico, filiação a sindicato ou a organização de caráter religioso, filosófico ou político.</p>
+<h3>SEÇÃO I - INFORMAÇÕES GERAIS</h3>
+<p>Nesta <strong>política de privacidade</strong> será informado a maneira que ocorre o tratamento dos dados pessoais das pessoas que acessam o site georgelucas.dev informando assim, de forma transparente quais são os dados, qual o intuito da coleta e a maneira que os visitantes podem controlar ou deletar suas informações.</p>
+<p>Este texto foi criado de acordo com a lei de Proteção de Dados Pessoais (Lei /18), o Marco Civil da Internet  (Lei 12.965 /14) e também o Regulamento da UE n. 2016/6790. Vale ressaltar que, este texto poderá sofrer alterações por conta de eventuais atualizações normativas.</p>
+<p>Informamos que toda e qualquer informação pessoal coletada por por nosso website georgelucas.dev , será utilizada para melhorar a sua experiência ao navegar em nosso website, visando desta maneira que sua visita se torne mais vantajosa e assertiva.</p>
+<p>A confidencialidade das informações pessoais dos usuários do site georgelucas.dev é de suma importância para nossa equipe, por este motivo, buscamos otimizar continuamente todos os processos internos, utilizando o <a href='https://politicaprivacidade.com.br/gerador-de-politica-de-privacidade-gerar-criar-online'>gerador de politica de privacidade</a> de forma clara, para mante-los em segurança e de acordo com todas as normas impostas.</p>
+<h3>SEÇÃO II - COLETA DOS DADOS</h3>
+<p>Os dados pessoais dos visitantes podem ser coletados quando:</p>
+<p><strong>II.I</strong> - O  indivíduo realiza a criação de um cadastro no site georgelucas.dev e com base nisso podem ser solicitados dados como: email, nome, cidade, telefone, etc.</p>
+<p><strong>II.II</strong> - O indivíduo navega nas páginas de nosso site georgelucas.dev e neste caso, podem ser coletados dados como: palavras-chaves de origem do buscador, comentários, navegador utilizado, IP da rede, etc.</p>
+<p><strong>II.III</strong> - Por meio de terceiros, tais como: Google e/ou Facebook, sendo que, no momento de logar em um destes sites é autorizado diretamente pelo terceiro.</p>
+<h3>SEÇÃO III - ACEITE</h3>
+<p>A partir do momento da utilização do website georgelucas.dev pressupõe que o usuário aceitou a <strong>política de privacidade.</strong> Desta forma reservamos ao direito de modificar esta política sem que seja realizado um aviso prévio. Por este motivo, nós recomendamos que os usuários realizem uma consulta regularmente a nossa política, para que desta forma, se mantenham sempre atualizados de possíveis alterações, caso seja necessário é possível entrar em contato através de nosso e-mail:contato@georgelucas.dev informando suas dúvidas.</p>
+<p>O desenvolvedor poderá coletar informações pessoais do usuário que acessa o site, tais como nome, e-mail, número de telefone fixo e/ou celular, endereço, data de nascimento, ip e/ou outros dados. Na grande maioria das vezes, esses dados são utilizados para ativar a função de geotarget (exibir determinados conteúdos de acordo com a localização) e também filtrando por tipo de usuário (analisando a necessidade de cada um).</p>                    
+<h3>SEÇÃO IV - VINCULO A SITES EXTERNOS</h3>
+<p>O site georgelucas.dev pode conter vinculo com sites externos, estes que podem possuir ferramentas e/ou informações proveitosas para os usuários. Esta <strong>política de privacidade</strong> não é empregada aos sites externos, se for do interesse do usuário, o mesmo deverá acessar a <strong>política de privacidade</strong> do site em questão para ter conhecimento dos detalhes.</p>
+<h3>COOKIES E WEB BEACONS</h3>
+<p>O site usa cookies com o objetivo de armazenar informações, como por exemplo, as preferências do publico que acessa um determinado site, esses cookies podem ser coletados por meio de um mero popup ou até mesmo uma integração com demais serviços.</p>
+<p>Você como usuário do website georgelucas.dev possui a total autonomia de desativar os cookies, basta acessar a configuração do seu navegador de preferência e realizar a modificação, ou caso tenha, poderá utilizar um antivirus que faça essa configuração diretamente. Vale ressaltar que, essa modificação poderá influenciar em como você navega em nosso site e em outros sites. Este fato ocorre, porque determinas programações necessitam da utilização de cookies para funcionarem corretamente, tais como os sites que necessitem de login em determinada área restrita.</p>                    
+<p>As empresas que anunciam em nosso website, também podem possuir um sistema que recolhe os cookies e ou web beacons, sempre com o intuito de exibir melhores publicidades, ofertas e produtos para o usuário final. Tornando assim, a publicidade mais assertiva e eficiente para ambas as partes.</p>  
+<h2>COOKIE DOUBLECLICK DART</h2>
+<p>O Google faz uso de cookies DART em nosso site, a utilização deles é importante para que a empresa possa exibir anúncios para o usuário levando em conta outros sites que a pessoa navegou anteriormente na internet, vale destacar que os usuários podem realizar a desativação de tais cookies acessando diretamente a <strong>política de privacidade</strong> do Google.</p>
+<h3>COOKIES POR E-MAIL</h3>
+<p>No caso de envio de newsletters ou até mesmo envio de avisos por e-mail os cookies podem ser utilizados para direcionar um conteúdo mais adequado ao usuário final, com o intuito de melhorar a experiência de quem está lendo o e-mail, vale ressaltar que cada provedor de email possui suas diretrizes, como por exemplo ao acessar o site do <a href='http://www.avantitecnologiati.com.br'>rastreamento correios</a> você deverá respeitar suas devidas políticas.</p>
+<h3>OS ANÚNCIOS</h3>
+<p>Visando o pagamento de custos de manutenção do site, são exibidos anúncios em nosso site, durante a exibição destes é coletado algumas informações, tais como: IP, ISP , Browser, Tempo de permanência.</p>
+<h3>ANÁLISE DE DADOS</h3>
+<p>A nossa empresa utiliza  o serviço do Google Analytics para mensurar, calcular e analisar todo o tráfego que recebe no site georgelucas.dev esta ferramenta coleta e processa os dados de acordo com a sua própria política, partindo do pressuposto da aceitação do usuário final, a política está disponível nos links abaixo:</p> 
+<ul>
+<li>https://www.google.com/intl/pt-BR/policies/privacy/partners/</li>
+<li>https://policies.google.com/privacy</li>
+<li>https://policies.google.com/terms</li>
+</ul>
+<p>Vale ressaltar que no caso do Google ou Parceiros deste, utilizarem os dados coletados, a responsabilidade é única e exclusiva destes, desta forma o site georgelucas.dev se isenta de qualquer responsabilidade por consequência do uso dos dados.</p>
+<h3>ATUALIZAÇÃO</h3>               
+<p>Essa <strong>politica de privacidade</strong> obteve sua última atualização na data de 26/04/2022, podendo ser modificada a qualquer momento, sem aviso prévio.</p>
       </Container>
     </div>
   );
