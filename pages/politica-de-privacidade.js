@@ -44,7 +44,7 @@ function politicaprivacidade() {
         não tiver certeza se precisa ou não deles, caso sejam usados ​​para
         fornecer um serviço que você usa. Desativar cookies Você pode impedir a
         configuração de cookies ajustando as configurações do seu navegador
-        (consulte a Ajuda do navegador para saber como fazer isso). Esteja
+        consulte a Ajuda do navegador para saber como fazer isso. Esteja
         ciente de que a desativação de cookies afetará a funcionalidade deste e
         de muitos outros sites que você visita. A desativação de cookies
         geralmente resultará na desativação de determinadas funcionalidades e
@@ -124,12 +124,12 @@ function politicaprivacidade() {
         pode fornecê-lo para fazer uma compra. Compromisso do Usuário O usuário
         se compromete a fazer uso adequado dos conteúdos e da informação que o
         George Lucas Dev oferece no site e com caráter enunciativo, mas não
-        limitativo: A) Não se envolver em atividades que sejam ilegais ou
-        contrárias à boa fé a à ordem pública; B) Não difundir propaganda ou
+        limitativo: A- Não se envolver em atividades que sejam ilegais ou
+        contrárias à boa fé a à ordem pública; B- Não difundir propaganda ou
         conteúdo de natureza racista, xenofóbica, Onde dá a Bola ou azar,
         qualquer tipo de pornografia ilegal, de apologia ao terrorismo ou contra
-        os direitos humanos; C) Não causar danos aos sistemas físicos
-        (hardwares) e lógicos (softwares) do George Lucas Dev, de seus
+        os direitos humanos; C- Não causar danos aos sistemas físicos
+        hardwares e lógicos softwares do George Lucas Dev, de seus
         fornecedores ou terceiros, para introduzir ou disseminar vírus
         informáticos ou quaisquer outros sistemas de hardware ou software que
         sejam capazes de causar danos anteriormente mencionados. Mais
