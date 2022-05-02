@@ -1,0 +1,14 @@
+
+.navbar-toggler {
+  position: fixed;
+  right: 1vh;
+}
+
+.navbar-nav {
+  bottom: 100px;
+  text-align: center;
+}
+
+.texto1 {
+  text-align: center;
+}

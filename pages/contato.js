@@ -1,13 +1,16 @@
-import Navbar from "./components/Navbar";
-import Rodape from "./components/Rodape";
+import { useState } from "react";
+import Navbar from "../components/Navbar";
+import Rodape from "../components/Rodape";
+import Link from "next/link";
+import { Container } from "reactstrap";
 
 function Contato() {
-  return(
+
+  return (
     <div>
-    <Navbar />
-    Contato
-    <Rodape />
+      <Navbar />
+      <Rodape />
     </div>
-);
+  );
 }
-  export default Contato;
+export default Contato;

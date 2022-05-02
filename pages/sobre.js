@@ -1,5 +1,6 @@
-import Navbar from "./components/Navbar";
-import Rodape from "./components/Rodape";
+import Navbar from "../components/Navbar";
+import Rodape from "../components/Rodape";
+import Link from "next/link";
 
 function Sobre() {
   return(
