@@ -1,6 +1,7 @@
 import Navbar from "../components/Navbar";
 import { Container, Carousel } from "reactstrap";
 import Rodape from "../components/Rodape";
+import Head from "next/head";
 
 export default function Home() {
   return (
@@ -8,9 +9,7 @@ export default function Home() {
       <Navbar />
       <br />
       <Container>
-        <h1 className="texto1">Bem vindo, nosso site esta em manutenção
-        <br/>estamos preparando o melhor para todos!</h1>
-        <image />
+        <image scr="" />
       </Container>
       <Rodape />
     </div>

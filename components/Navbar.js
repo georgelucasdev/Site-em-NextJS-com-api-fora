@@ -6,10 +6,10 @@ import { Container } from "reactstrap";
 
 const Navbar = () => {
   return (
-    <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
+    <nav className="navbar navbar-expand-md">
       <Container>
         <div className="container-fluid row justify-content-evenly">
-          <div className="col-0">
+          <div>
             <Image src={Logo} width={64} height={64} />
           </div>
         </div>
@@ -29,11 +29,16 @@ const Navbar = () => {
             <ul className="navbar-nav">
               <Link href="/">
                 <a
-                  className="nav-link active"
+                  className="nav-link"
                   aria-current="page"
                   margin-left="50px"
                 >
                   Inicio
+                </a>
+              </Link>
+              <Link href="projetos">
+                <a className="nav-link" aria-current="page">
+                  Projetos
                 </a>
               </Link>
               <Link href="politica-de-privacidade">
@@ -49,5 +54,3 @@ const Navbar = () => {
   );
 };
 export default Navbar;
-
-//<Link href="projetos"><a className="nav-link" aria-current="page">Projetos</a></Link>

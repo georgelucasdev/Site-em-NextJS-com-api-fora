@@ -5,8 +5,9 @@ import Link from "next/link";
 
 function politicaprivacidade() {
   return (
-    <div>
+    <div className="politica">
       <Navbar />
+      <br/>
       <Container>
       <h2>Política de Privacidade</h2>
 <p>É importante esclarecer que dados pessoais são considerados como: todas as informações que possam ser utilizadas para identificar alguma pessoa. Estes dados, podem ser considerados sensíveis, tais como: convicção religiosa, saúde ou à vida sexual, origem racial ou étnica, opinião política, dado genético ou biométrico, filiação a sindicato ou a organização de caráter religioso, filosófico ou político.</p>
@@ -43,11 +44,10 @@ function politicaprivacidade() {
 <li>https://policies.google.com/terms</li>
 </ul>
 <p>Vale ressaltar que no caso do Google ou Parceiros deste, utilizarem os dados coletados, a responsabilidade é única e exclusiva destes, desta forma o site georgelucas.dev se isenta de qualquer responsabilidade por consequência do uso dos dados.</p>
-<h3>ATUALIZAÇÃO</h3>               
+<h3>ATUALIZAÇÃO</h3>
 <p>Essa <strong>politica de privacidade</strong> obteve sua última atualização na data de 26/04/2022, podendo ser modificada a qualquer momento, sem aviso prévio.</p>
       <Rodape />
       </Container>
-      <br></br>
     </div>
   );
 }

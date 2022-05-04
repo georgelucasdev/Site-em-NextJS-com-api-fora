@@ -1,14 +1,70 @@
-
 .navbar-toggler {
   position: fixed;
   right: 1vh;
+  color: rgb(25, 241, 241);
+  background-color: rgb(5, 35, 61);
 }
-
+.navbar-toggler-icon {
+  background-color: maroon;
+}
+.navbar {
+  margin-bottom: 2vh;
+  background-color: black;
+  color: rgb(120, 77, 189);
+}
+.navbarNav {
+  background-color: blue;
+}
 .navbar-nav {
   bottom: 100px;
   text-align: center;
+  color: aliceblue;
 }
-
+.nav-link {
+  color: aliceblue;
+}
 .texto1 {
   text-align: center;
+}
+.politica {
+  background-color: antiquewhite;
+  opacity: 80%;
+}
+
+body {
+  background-color: rgb(85, 82, 82);
+}
+.containerRodape {
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  content: center;
+  align-items: center;
+  align-content: center;
+  background-color: black;
+}
+.rodape2 {
+  flex-direction: row;
+  color: aliceblue;
+}
+.rodapetext {
+  width: 100%;
+  flex-direction: row;
+  color: aliceblue;
+}
+.linkrodape {
+  color: aliceblue;
+}
+.container-1-pro{
+  background-color: aliceblue;
+  display: flex;
+}
+.bebet{
+  text-align: left;
+  width: 50%;
+  height: 50%;
+}
+.h2p1{
+  text-align: right;
+  align-items: flex-end;
 }

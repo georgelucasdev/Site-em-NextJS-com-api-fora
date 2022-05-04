@@ -6,18 +6,16 @@ import { Container, Jumbotron } from "reactstrap";
 
 const Rodape = () => {
   return (
-    <div>
-      <br/>
-    <nav className="navbar navbar-light bg-light">
-      <Container>
-      <a className="navbar-brand">George Lucas Aplicativos®   // 2010 - 2022 //</a>
-      <Link href="mailto:contato@georgelucas.dev">
-                <a className="nav-link" aria-current="page">
-                  Contato
-                </a>
-              </Link>
-    </Container>
-    </nav>
+    <div className="divrodape">
+      <br />
+        <Container className="containerRodape">
+          <h6 className="rodapetext">
+            George Lucas Aplicativos® // 2010 - 2022 //
+          </h6>
+          <Link className="nav-link" aria-current="page" href="mailto:contato@georgelucas.dev">
+            <a>Contato</a>
+          </Link>
+        </Container>
     </div>
   );
 };
