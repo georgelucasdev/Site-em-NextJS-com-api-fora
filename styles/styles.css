@@ -56,15 +56,121 @@ body {
   color: aliceblue;
 }
 .container-1-pro{
-  background-color: aliceblue;
   display: flex;
+  flex-direction: row;
+  border-radius: 1vh;
+  background-color: aliceblue;
 }
-.bebet{
-  text-align: left;
-  width: 50%;
-  height: 50%;
+.container-2-pro{
+  display: flex;
+  flex-direction: row;
+  border-radius: 1vh;
+  background-color: aliceblue;
+}
+.container-3-pro{
+  display: flex;
+  flex-direction: row;
+  border-radius: 1vh;
+  background-color: aliceblue;
+}
+.container-4-pro{
+  display: flex;
+  flex-direction: row;
+  border-radius: 1vh;
+  background-color: aliceblue;
+}
+.container-5-pro{
+  display: flex;
+  flex-direction: row;
+  border-radius: 1vh;
+  background-color: aliceblue;
+}
+.container-6-pro{
+  display: flex;
+  flex-direction: row;
+  border-radius: 1vh;
+  background-color: aliceblue;
 }
 .h2p1{
   text-align: right;
   align-items: flex-end;
+}
+.h2p2{
+  text-align: left;
+  align-items: flex-end;
+}
+.h2p3{
+  text-align: match-parent;
+  text-align: right;
+  margin-left: 33vh;
+  margin-right: 1vh;
+}
+.h2p4{
+  text-align: left;
+  align-items: flex-end;
+}
+.h2p5{
+  text-align: right;
+  align-items: flex-end;
+}
+.h2p6{
+  text-align: left;
+  align-items: flex-end;
+}
+
+@media ( max-width: 900px ) {
+  .container-1-pro{
+    display: block;
+    flex-direction: row;
+    border-radius: 1vh;
+    background-color: aliceblue;
+  }
+  .container-2-pro{
+    display: block;
+    flex-direction: row;
+    border-radius: 1vh;
+    background-color: aliceblue;
+  }
+  .container-3-pro{
+    display: block;
+    flex-direction: row;
+    border-radius: 1vh;
+    background-color: aliceblue;
+  }
+  .container-4-pro{
+    display: block;
+    flex-direction: row;
+    border-radius: 1vh;
+    background-color: aliceblue;
+  }
+  .container-5-pro{
+    display: block;
+    flex-direction: row;
+    border-radius: 1vh;
+    background-color: aliceblue;
+  }
+  .container-6-pro{
+    display: block;
+    flex-direction: row;
+    border-radius: 1vh;
+    background-color: aliceblue;
+  }
+  .h2p1C{
+    text-align: center;
+  }
+  .h2p2C{
+    text-align: center;
+  }
+  .h2p3C{
+    text-align: center;
+  }
+  .h2p4C{
+    text-align: center;
+  }
+  .h2p5C{
+    text-align: center;
+  }
+  .h2p6C{
+    text-align: center;
+  }
 }

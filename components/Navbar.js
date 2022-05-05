@@ -41,6 +41,11 @@ const Navbar = () => {
                   Projetos
                 </a>
               </Link>
+              <Link href="https://play.google.com/store/apps/dev?id=8366175090222756128">
+                <a className="nav-link" aria-current="page">
+                  Aplicativos na Playstore
+                </a>
+                </Link>
               <Link href="politica-de-privacidade">
                 <a className="nav-link" aria-current="page">
                   Politicade Privacidade
