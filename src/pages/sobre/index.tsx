@@ -17,9 +17,9 @@ export default function Sobre() {
                         <p>
                             Criador de aplicativos, ingressando nesta nova área de criação de website
                             com vários anos no mercado, cheio de vontade e determinação para desempenhar o melhor
-                            para todos, aprendendo um framework excelente "NextJS" estou começando a ter resultados
-                            empolgantes com esta nova estrutura de desenvolvimento web "front-end" que por sua
-                            vez e baseado em "ReactJS", hoje este website que vos esta usando para ler este
+                            para todos, aprendendo um framework excelente NextJS estou começando a ter resultados
+                            empolgantes com esta nova estrutura de desenvolvimento web front-end que por sua
+                            vez e baseado em ReactJS, hoje este website que vos esta usando para ler este
                             meu comentário foi feito em NextJS com CMS online.
                         </p>
                         <br />
