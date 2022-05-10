@@ -27,7 +27,7 @@ export default function Sobre() {
                         <section>
                             <a><FaNode size={40} /></a>
                             <a><FaReact size={40} /></a>
-                            <a><SiNextdotjs size={40} /></a>
+                            <a><SiNextdotjs size={40}  /></a>
                         </section>
                         <br />
                         <br />
