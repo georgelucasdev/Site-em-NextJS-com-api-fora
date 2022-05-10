@@ -73,7 +73,6 @@ export const getServerSideProps: GetServerSideProps = async ({ req, params }) =>
             month: 'long',
             year: 'numeric'
         })
-        //link: response.data.link.url
     }
 
     return {
