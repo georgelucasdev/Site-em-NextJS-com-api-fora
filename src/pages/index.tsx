@@ -8,7 +8,7 @@ export default function Home() {
   return (
    <>
     <Head>
-      <title>George Lucas Aplicativos</title>
+      <title>George Lucas Aplicativos </title>
     </Head>
     <main className={styles.container}>
       <div className={styles.containerHeader}>
