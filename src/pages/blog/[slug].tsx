@@ -10,7 +10,7 @@ import Head from 'next/head'
 import Image from 'next/image'
 import Link from 'next/link';
 
-interface blogProps {
+interface BlogProps {
     blog: {
         slug: string,
         title: string,
@@ -21,7 +21,7 @@ interface blogProps {
     }
 }
 
-export default function blog({ blog }) {
+export default function Blog({ blog }) {
     return (
         <>
             <head>
@@ -40,8 +40,6 @@ export default function blog({ blog }) {
                     <h1>{blog.title}</h1>
                     <time>{blog.updatedAt}</time>
                     <div className={styles.blogContent} dangerouslySetInnerHTML={{ __html: blog.description }}/>
-                    <ul>
-                    </ul>
                 </article>
             </main>
         </>
@@ -72,7 +70,7 @@ export const getServerSideProps: GetServerSideProps = async ({ req, params }) =>
             day: '2-digit',
             month: 'long',
             year: 'numeric'
-        })
+        }),
     }
 
     return {

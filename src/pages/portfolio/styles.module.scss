@@ -1,14 +1,16 @@
 .container {
     width: 100%;
-    padding: 0 25rem;
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-column-gap: 0.1rem;
+    padding: 0 2rem;
+
 }
 
-.posts {
-    max-width: 500px;
-    margin: 2rem auto;
+.portfolios {
+    max-width: 1100px;
+    margin: 1rem auto;
+    display: grid;
+    grid-template-columns: repeat(3, 2fr);
+    grid-column-gap: 1rem;
+    align-items: center;
 
     a {
         display: block;
@@ -54,7 +56,7 @@
     }
 }
 
-.botaonavegacao {
+.buttonNavigate {
     margin-top: 2rem;
     display: flex;
     align-items: center;
