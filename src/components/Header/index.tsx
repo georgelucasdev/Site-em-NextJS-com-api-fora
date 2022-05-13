@@ -8,7 +8,7 @@ export function Header() {
             <div className={styles.headerContent}>
                 <ActiveLink href="/" activeClassName={styles.active}>
                     <a>
-                    <img src="/logo.png" alt='a' />
+                        <img src="/logo.png" alt='a' />
                     </a>
                 </ActiveLink>
                 <nav>
@@ -18,14 +18,11 @@ export function Header() {
                     <ActiveLink href="/portfolio" activeClassName={styles.active}>
                         <a>Portfólio</a>
                     </ActiveLink>
-                    <ActiveLink href="/blog" activeClassName={styles.active}>
-                        <a>Blog</a>
-                    </ActiveLink>
                     <ActiveLink href="/sobre" activeClassName={styles.active}>
-                        <a>Quem Somos?</a>
+                        <a>Sobre</a>
                     </ActiveLink>
                     <ActiveLink href="/politica-de-privacidade" activeClassName={styles.active}>
-                        <a>Política de Privacidade</a>
+                        <a>Privacidade</a>
                     </ActiveLink>
                 </nav>
             </div>

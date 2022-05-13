@@ -82,54 +82,54 @@ export default function Portfolios({ portfolios: portfoliosBlog, page, totalPage
                 <title>PortFólio | George Lucas Aplicativos</title>
             </Head>
             <main className={styles.container}>
-                <div className={styles.portfolios}>
-                    {portfolios.map(portfolio => (
-                        <Link key={portfolio.slug} href={`/portfolio/${portfolio.slug}`}>
-                            <a key={portfolio.slug}>
-                                <Image
-                                    src={portfolio.cover}
-                                    alt={portfolio.title}
-                                    width={720}
-                                    height={410}
-                                    quality={100}
-                                    placeholder="blur"
-                                    blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mN0vQgAAWEBGHsgcxcAAAAASUVORK5CYII="
-                                />
-                                <strong>{portfolio.title}</strong>
-                                <time>{portfolio.updatedAt}</time>
-                                <p>{portfolio.description}</p>
-                            </a>
-                        </Link>
-                    ))}
-                </div>
-        </main>
-                    <footer>
-                        <div className={styles.buttonNavigate}>
-                            {Number(currentPage) >= 2 && (
-                                <div>
-                                    <button onClick={() => navigatePage(1)}>
-                                        <FiChevronsLeft size={25} color="#FFF" />
-                                    </button>
-                                    <button onClick={() => navigatePage(Number(currentPage - 1))}>
-                                        <FiChevronLeft size={25} color="#FFF" />
-                                    </button>
-                                </div>
-                            )}
-
-                            {Number(currentPage) < Number(totalPage) && (
-                                <div>
-                                    <button onClick={() => navigatePage(Number(currentPage + 1))}>
-                                        <FiChevronRight size={25} color="#FFF" />
-                                    </button>
-                                    <button onClick={() => navigatePage(Number(totalPage))}>
-                                        <FiChevronsRight size={25} color="#FFF" />
-                                    </button>
-                                </div>
-                            )}
+            </main>
+            <div className={styles.portfolios}>
+                {portfolios.map(portfolio => (
+                    <Link key={portfolio.slug} href={`/portfolio/${portfolio.slug}`}>
+                        <a key={portfolio.slug}>
+                            <Image
+                                src={portfolio.cover}
+                                alt={portfolio.title}
+                                width={720}
+                                height={410}
+                                quality={100}
+                                placeholder="blur"
+                                blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mN0vQgAAWEBGHsgcxcAAAAASUVORK5CYII="
+                            />
+                            <strong>{portfolio.title}</strong>
+                            <time>{portfolio.updatedAt}</time>
+                            <p>{portfolio.description}</p>
+                        </a>
+                    </Link>
+                ))}
+            </div>
+            <footer>
+                <div className={styles.buttonNavigate}>
+                    {Number(currentPage) >= 2 && (
+                        <div>
+                            <button onClick={() => navigatePage(1)}>
+                                <FiChevronsLeft size={25} color="#FFF" />
+                            </button>
+                            <button onClick={() => navigatePage(Number(currentPage - 1))}>
+                                <FiChevronLeft size={25} color="#FFF" />
+                            </button>
                         </div>
+                    )}
+
+                    {Number(currentPage) < Number(totalPage) && (
+                        <div>
+                            <button onClick={() => navigatePage(Number(currentPage + 1))}>
+                                <FiChevronRight size={25} color="#FFF" />
+                            </button>
+                            <button onClick={() => navigatePage(Number(totalPage))}>
+                                <FiChevronsRight size={25} color="#FFF" />
+                            </button>
+                        </div>
+                    )}
+                </div>
             </footer>
-    </>
-  )
+        </>
+    )
 }
 
 
