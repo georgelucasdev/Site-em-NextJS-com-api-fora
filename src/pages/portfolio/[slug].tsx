@@ -39,7 +39,12 @@ export default function Portfolio({ portfolio }) {
                     />
                     <h1>{portfolio.title}</h1>
                     <time>{portfolio.updatedAt}</time>
-                    <div className={styles.portfolioContent} dangerouslySetInnerHTML={{ __html: portfolio.description }}/>
+                    <div className={styles.portfolioContent} dangerouslySetInnerHTML={{ __html: portfolio.description }} />
+                    <br />
+                    <br />
+                    <Link href={portfolio.link}>
+                        <a>Acesse este conteudo por este link: --  {portfolio.title}</a>
+                    </Link>
                 </article>
             </main>
         </>
@@ -66,6 +71,7 @@ export const getServerSideProps: GetServerSideProps = async ({ req, params }) =>
         title: RichText.asText(response.data.title),
         description: RichText.asHtml(response.data.description),
         cover: response.data.cover.url,
+        link: response.data.link.url,
         updatedAt: new Date(response.last_publication_date).toLocaleDateString('pt-BR', {
             day: '2-digit',
             month: 'long',

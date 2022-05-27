@@ -43,7 +43,7 @@ export default function Portfolios({ portfolios: portfoliosBlog, page, totalPage
         ], {
             orderings: '[document.last_publication_date desc]', //Ordenar pelo mais recente
             fetch: ['portfolio.title', 'portfolio.description', 'portfolio.cover'],
-            pageSize: 10,
+            pageSize: 50,
             page: String(pageNumber)
         })
 
@@ -79,7 +79,7 @@ export default function Portfolios({ portfolios: portfoliosBlog, page, totalPage
     return (
         <>
             <Head>
-                <title>PortFólio | George Lucas Aplicativos</title>
+                <title>Portfólio | George Lucas Aplicativos</title>
             </Head>
             <main className={styles.container}>
             </main>
@@ -141,7 +141,7 @@ export const getStaticProps: GetStaticProps = async () => {
     ], {
         orderings: '[document.last_publication_date desc]', //Ordenar pelo mais recente
         fetch: ['portfolio.title', 'portfolio.description', 'portfolio.cover'],
-        pageSize: 10
+        pageSize: 50
     })
 
     // console.log(JSON.stringify(response, null, 2))
