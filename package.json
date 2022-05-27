@@ -21,6 +21,7 @@
     "typerscript": "^0.2.3"
   },
   "devDependencies": {
+    "@types/jquery": "^3.5.14",
     "eslint": "8.15.0",
     "eslint-config-next": "12.1.6",
     "sass": "^1.51.0",

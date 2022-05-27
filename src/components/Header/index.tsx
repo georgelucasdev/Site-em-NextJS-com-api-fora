@@ -11,6 +11,7 @@ export function Header() {
                         <img src="/logo.png" alt='a' />
                     </a>
                 </ActiveLink>
+
                 <nav>
                     <ActiveLink href="/" activeClassName={styles.active}>
                         <a>Inicio</a>
@@ -18,8 +19,8 @@ export function Header() {
                     <ActiveLink href="/portfolio" activeClassName={styles.active}>
                         <a>Portfólio</a>
                     </ActiveLink>
-                    <ActiveLink href="/sobre" activeClassName={styles.active}>
-                        <a>Sobre</a>
+                    <ActiveLink href="/contato" activeClassName={styles.active}>
+                        <a>Contato</a>
                     </ActiveLink>
                     <ActiveLink href="/politica-de-privacidade" activeClassName={styles.active}>
                         <a>Privacidade</a>
