@@ -19,6 +19,24 @@
         margin-top: 2.5rem;
         color: var(--branco);
     }
+    img{
+        max-width: 250px;
+        border-radius: 10px;
+    }
+    p{
+        margin: 0 9rem;
+        padding: 2rem 0;
+        font-size:1.5rem;
+        font-weight: 400;
+        color: var(--branco);
+    }
+}
+.hrtop{
+    margin: 4rem auto;
+}
+
+.hr{
+    margin: 1rem auto;
 }
 
 .ctaText {
