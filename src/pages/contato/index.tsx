@@ -1,6 +1,5 @@
 import Head from "next/head";
 import styles from './styles.module.scss';
-
 import { FaInstagram, FaLinkedin, FaFacebook, FaTwitter, FaReact, FaNode, FaWhatsapp } from 'react-icons/fa';
 import { SiNextdotjs } from 'react-icons/si';
 
@@ -8,16 +7,34 @@ export default function Contato() {
     return (
         <>
             <Head>
-                <title>George Lucas Aplicativos | Quem Somos?</title>
+                <title>Contato | George Lucas Aplicativos </title>
             </Head>
             <main className={styles.container} >
                 <div className={styles.containerHeader} >
                     <section className={styles.ctaText}>
+                        <br />
+                        <br />
+                        <br />
+                        <br />
+                        <br />
+                        <br />
+                        <br />
+                        <br />
+                        <br />
                         <h1>George Lucas</h1>
                         <section>
+                            <p> Em constante evolução em desenvolvimento web para front end;
+                                focado em criar novas experiências para o usuário com as tecnologias e frameworks mais utilizadas do mercado
+                                : ReactJS, NextJS, Typescript, NodeJS em combinação com banco de dados em servidor. De caráter honesto,
+                                busca o estímulo, organização, compartilhamento de conhecimento e o contínuo desenvolvimento pessoal e
+                                profissional do grupo de trabalho.</p>
+                            <br />
                             <a><FaNode size={40} /></a>
                             <a><FaReact size={40} /></a>
                             <a><SiNextdotjs size={40} /></a>
+                            <br />
+                            <br />
+                            <br />
                         </section>
                         <p>Quer conversar? essas são minhas redes sociais.</p>
                         <a href="https://www.facebook.com/Lucasc4nd1d0">

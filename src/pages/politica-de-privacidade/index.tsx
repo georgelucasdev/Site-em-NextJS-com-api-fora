@@ -8,7 +8,7 @@ export default function Sobre() {
     return (
         <>
             <Head>
-                <title>George Lucas Aplicativos | Política de Privacidade</title>
+                <title>Política de Privacidade | George Lucas Aplicativos</title>
             </Head>
             <main className={styles.container} >
                 <div className={styles.containerHeader} >
