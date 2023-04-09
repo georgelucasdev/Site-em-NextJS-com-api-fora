@@ -49,9 +49,6 @@ export default function Contato() {
                         <a href="https://twitter.com/LucasC4ndid0">
                             <FaTwitter size={40} />
                         </a>
-                        <a href="https://api.whatsapp.com/send/?phone=5521983822707&text&app_absent=0">
-                            <FaWhatsapp size={40} />
-                        </a>
                     </section>
                 </div>
             </main>

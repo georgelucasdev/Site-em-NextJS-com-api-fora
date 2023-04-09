@@ -42,7 +42,7 @@ export default function Portfolios({ portfolios: portfoliosBlog, page, totalPage
             Prismic.Predicates.at('document.type', 'portfolio')
         ], {
             orderings: '[document.last_publication_date desc]', //Ordenar pelo mais recente
-            fetch: ['portfolio.title', 'portfolio.description', 'portfolio.cover'],
+            fetch: ['portfolio.title', 'portfolio.description', 'portfolio.cover'], //
             pageSize: 50,
             page: String(pageNumber)
         })

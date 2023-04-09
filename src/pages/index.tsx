@@ -15,6 +15,11 @@ export default function Home() {
       <hr className={styles.hr} />
       <section className={styles.ctaText}>
       </section>
+      <body>
+        <h1 className={styles.ctaText}>
+          Escolha o que quiser como e quando quiser, apenas clique em uma opção.
+        </h1>
+      </body>
     </>
   )
 }
